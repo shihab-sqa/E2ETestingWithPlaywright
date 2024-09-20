@@ -1,4 +1,4 @@
-#SauceDemo Playwright Automation Suite
+*SauceDemo Playwright Automation Suite
 #This project automates testing for the SauceDemo application using Playwright. It includes test cases for:
 
 Sorting functionality on the "All Items" page.
